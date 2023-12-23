@@ -2,8 +2,7 @@
 a erc20 coin created for the metacrafters avax intermediate module 3
 
 ## Description 📓
-this contract uses the openZeppelin configuration for making ERC20 Tokens and updates have been made to the general contract. 
-changes include -
+this contract uses the openZeppelin configuration for making ERC20 Tokens and updates have been made to the general contract.  changes include -
 1. any user can burn their tokens
 2. the owner can mint more tokens to any address
 
