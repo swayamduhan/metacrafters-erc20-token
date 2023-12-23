@@ -11,7 +11,7 @@ changes include -
 - copy the code to remix, compile and deploy to test the contract easily
 - add the initial supply to the constructor while deploying
 - keep in mind the different addresses being used while interacting with the token contract
-- to run code locally and deploy using hardhat, first you'll need to bring the OpenZeppelin ERC20 Token contract locally and update the import code for the same
+- to run code locally and deploy using hardhat, first you'll need to bring the OpenZeppelin ERC20 Token contract locally and update the code for import based on the same
 
 ## Main Functions :accessibility:
 1. `mintTokens` - to mint new tokens to any address
